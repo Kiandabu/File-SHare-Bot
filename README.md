@@ -51,8 +51,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/COLD-ONEZ/File-SHare-Bot
-cd File-SHare-Bot
+git clone https:https://github.com/Kiandabu/File-SHare-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
